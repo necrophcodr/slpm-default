@@ -1,0 +1,3 @@
+URL=http://git.suckless.org/sltar/
+TYPE=git
+DESC="Suckless tar replacement"

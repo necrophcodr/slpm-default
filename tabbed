@@ -1,0 +1,3 @@
+URL=http://git.suckless.org/tabbed
+TYPE=git
+DESC="tab interface for application supporting Xembed"

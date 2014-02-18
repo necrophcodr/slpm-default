@@ -1,0 +1,4 @@
+URL=http://git.suckless.org/surf
+TYPE=git
+DESC="simple webkit based browser"
+DEPS=

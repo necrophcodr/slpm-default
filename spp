@@ -1,0 +1,3 @@
+URL=git://github.com/radare/spp
+DESC="Simple PreProcessor"
+TYPE=git

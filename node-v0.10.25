@@ -1,0 +1,3 @@
+URL=http://nodejs.org/dist/v0.10.25/node-v0.10.25.tar.gz
+TYPE=tar
+DESC="NodeJS"

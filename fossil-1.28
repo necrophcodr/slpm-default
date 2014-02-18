@@ -1,0 +1,3 @@
+URL=http://www.fossil-scm.org/download/fossil-src-20140127173344.tar.gz
+TYPE=tar
+DESC="Simple, high-reliability, distributed software configuration management"

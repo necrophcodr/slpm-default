@@ -1,0 +1,12 @@
+URL=git://repo.or.cz/tinycc.git
+TYPE=git
+GITARGS="-b mob"
+DESC="tiny c compiler"
+# hack to not depend on texi2html
+PKG_FETCH="touch ${WRKDIR}/${PKG}/tcc-doc.html"
+PKGINSTALL=_tccinstall
+_tccinstall() {
+	eval $@
+        ./configure "--prefix=${PREFIX}"
+        ${MAKE} install
+}

@@ -1,0 +1,4 @@
+URL=https://github.com/joyent/node
+TYPE=git
+DESC="NodeJS"
+DEPS="Python-2.7"

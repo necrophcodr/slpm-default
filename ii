@@ -1,0 +1,4 @@
+URL=http://git.suckless.org/ii
+TYPE=git
+DESC="irc it, simple FIFO based irc client"
+DEPS=

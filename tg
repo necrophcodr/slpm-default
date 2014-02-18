@@ -1,0 +1,4 @@
+TYPE=hg
+URL=http://hg.youterm.com/tg
+DESC="Tiny gallery"
+DEPS=

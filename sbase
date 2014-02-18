@@ -1,0 +1,3 @@
+URL=http://git.suckless.org/sbase/
+TYPE=git
+DESC="Suckless userland base"

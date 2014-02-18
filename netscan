@@ -1,0 +1,4 @@
+URL=http://bitbucket.org/noname/netscan/
+TYPE=hg
+DESC="network scan tool"
+INSTALL_PRE="pwd;mkdir -p share/man/man1 bin"

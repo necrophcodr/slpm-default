@@ -1,0 +1,3 @@
+URL=http://git.suckless.org/dmenu
+TYPE=git
+DESC="dynamic menu for X"

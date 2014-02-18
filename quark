@@ -1,0 +1,3 @@
+URL=http://git.suckless.org/quark/
+TYPE=git
+DESC="Suckless REST server"

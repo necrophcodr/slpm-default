@@ -1,0 +1,4 @@
+URL=http://www.tcpdump.org/release/tcpdump-4.2.0.tar.gz
+TYPE=tar
+DESC="Network packet capture utility"
+DEPS=libpcap
