@@ -2,3 +2,4 @@ URL=git://github.com/luvit/luvit.git
 DESC="lua+libuv"
 TYPE=git
 DEPS="Python-2.7 gyp"
+MAKEFUN="make -C out"
