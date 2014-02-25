@@ -1,0 +1,9 @@
+URL=https://github.com/jgallen23/mongroup
+TYPE=git
+DESC="Monitor a group of processes with mon"
+DEPS="mon"
+PKGiNSTALL=_mongroupinstall
+_mongroupinstall() {
+	eval $@
+		make install PREFIX=${PREFIX}${DESTDIR}
+}
